@@ -38,13 +38,19 @@ function content (done) {
     .destination(data.content.destination) // Output files in this folder
     .clean(false) // Don't clean the directory on every build
     .use(collections({ // Group related content for easy access later
-      blog: 'blog/*.md',
+      blog: {
+        pattern: 'blog/*.md',
+        sortBy: 'date',
+        reverse: true
+      },
+      media: 'media/**/*',
       projects: 'projects/*.md'
     }))
     .use(markdown({ // Process Markdown files
       smartypants: true
     }))
     .use(permalinks({ // Add pretty permalinks
+      pattern: ':collection/:title',
       relative: false
     }))
     .use(layouts({ // Wrap content with Handlebars templates

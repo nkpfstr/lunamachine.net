@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  {{> head}}
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>{{site.title}}</h1></a>
+        <p>{{site.description}}</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>{{this.title}}</h2>
+        </header>
+        {{{contents}}}
+      </article>
+      <nav>
+        {{#if this.previous}}
+          <a href="../../{{this.previous.path}}">Previous: {{this.previous.title}}</a>
+        {{/if}}
+        {{#if this.next}}
+          <a href="../../{{this.next.path}}">Next: {{this.next.title}}</a>
+        {{/if}}
+    </nav>
+    </main>
+  </body>
+</html>

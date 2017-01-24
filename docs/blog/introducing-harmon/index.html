@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Introducing Harmon</h2>
+        </header>
+        <p>Modular scales are becoming more common in web design today. As far as I know, using a modular scale in web design was popularized by <a href="https://twitter.com/timbrown">Tim Brown</a>, a Type Manager at Typekit. In his <em>A List Apart</em> article on the subject, Tim explains what a modular scale is and why we might want to use one:</p>
+<blockquote>
+<p>A modular scale is a sequence of numbers that relate to one another in a meaningful way. […]</p>
+<p>By using culturally relevant, historically pleasing ratios to create modular scales and basing the measurements in our compositions on values from those scales, we can achieve a visual harmony not found in layouts that use arbitrary, conventional, or easily divisible numbers.</p>
+</blockquote>
+<p>Check out <a href="http://alistapart.com/article/more-meaningful-typography">the full article</a> if you want to dive deeper.</p>
+<h3 id="scratching-an-itch">Scratching an itch</h3>
+<p>I like using a modular scale in my Sass projects to maintain harmony and vertical rhythm. There is a well-known modular scale calculator made with Sass — aptly named <a href="">modularscale-sass</a> — but I often find it to be more than I need. I’ve been using my own little scale that I cobbled together a few projects ago, and this weekend I decided to clean it up and release it on Github for everyone to use. I call it Harmon.</p>
+<p>Harmon is a simple typographic scale written in Sass. My goal was to make it as straight forward as using <a href="http://modularscale.com">modularscale.com</a>. It’s easy to configure &amp; use, and it’s lightweight at under 3kb. It outputs rems by default, but you can optionally output unitless values (useful for line heights). You can travel 6 steps down the scale or 16 steps up; Harmon will throw an error if you go outside of that range.</p>
+<p>You can download Harmon <a href="https://github.com/nickpfisterer/harmon">on Github</a> or install it with Bower <code>bower install harmon --save</code>. Check out the <a href="https://github.com/nickpfisterer/harmon/blob/master/README.md">README</a> for instructions and feel free to <a href="https://github.com/nickpfisterer/harmon/issues">submit an issue</a> if you find a bug or have a suggestion.</p>
+<h3 id="that-name-though">That name though</h3>
+<p>Funny story about the name. I was going to call it Harmony, but when I went to add Bower support I saw that there was already a packaged called Harmony (the Bower registry is first-come, first-serve). I didn’t want to spend a lot of time on a new name, so I just chopped off the ‘y’ in Harmony. When I said it out loud, it sounded catchy. So I stuck with it.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/office-code-pro">Previous: Office Code Pro</a>
+          <a href="../../blog/google-fiber-coming-to-charlotte-time-warner-cable-increases-speeds-up-to-6x">Next: Google Fiber Coming to Charlotte, Time Warner Cable Increases Speeds up to 6x</a>
+    </nav>
+    </main>
+  </body>
+</html>

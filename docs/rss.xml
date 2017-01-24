@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nick Pfisterer]]></title><description><![CDATA[Design • Code • Music]]></description><link>http://lunamachine.net</link><generator>metalsmith-feed</generator><lastBuildDate>Tue, 24 Jan 2017 08:43:05 GMT</lastBuildDate><atom:link href="http://lunamachine.net/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Unreal Slackers 2015 Stats]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Unreal Slackers 2015 Stats</h2>
+        </header>
+        <p>In May 2015, I started Unreal Slackers to provide a friendly, welcoming place where people interested in making things with Unreal Engine could talk shop and share their passion for creating, regardless of skill level or experience. Now that 2015 has come to an end, I thought it would be fun to share some stats on the growth of Unreal Slackers. Graphs and charts incoming!</p>
+<p><img src="../../media/stats-2015-slackers-per-month-1.png" alt="slackers per month"></p>
+<p>As you can see from the huge spike, October brought in the most new members by far. This was likely due to the Epic MegaJam, a week-long Unreal Engine game jam that attracted over 200 developers and gave out a ton of prizes. I popped up a #gamejam channel dedicated to helping people find team members, discuss theme ideas and share progress along the way. This channel now temporarily pops up for a week every time Epic hosts a monthly game jam.</p>
+<p><img src="../../media/stats-2015-slackers-total.png" alt="slackers total"></p>
+<p>This chart is just unreal (pun very much intended). Growth was slow and steady at first, but it’s been surging recently and doesn’t show any signs of stopping. It’s hard to believe we’re nearing 1,000 members after just 7 months.</p>
+<p><img src="../../media/stats-2015-messages-sent.png" alt="slackers messages sent"></p>
+<p>This comes out to an average of 48,000 messages per month. We talk a lot!</p>
+<p><img src="../../media/stats-2015-files-uploaded.png" alt="slackers files uploaded"></p>
+<p>It comes as no surprise that the most commonly uploaded files are images. Sure, everyone is working hard on their Unreal Engine projects; but we all need a funny gif now and then.</p>
+<p>Code snippets are a great feature of Slack that makes it easier to get programming help, so it’s great to see those getting a lot of use.</p>
+<h3 id="looking-forward">Looking Forward</h3>
+<p>2015 was a great year for Unreal Engine, and 2016 promises to top it. I have a lot in store for Unreal Slackers this year, including a new website, a friendlier signup URL, learning resources and initiatives to help promote the awesome work in our community. I’d also love to do a more in-depth stats report for our one-year anniversary in May.</p>
+<p>Unreal Slackers has attracted all sorts of amazing people. Designers, programmers, artists, marketplace authors and even some of the Epic Games staff. There are dedicated channels for discussing Blueprint, VR, audio, animation and so much more. Anyone with an interest in using Unreal Engine is welcome, regardless of skill level or experience.</p>
+<p>If you’re working with Unreal Engine and looking for a place to hang out, talk shop or just goof off with like-minded people, <a href="http://unrealslackers.org/">join us for free</a>.</p>
+<p>Here’s to an amazing 2016!</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/having-faith-in-mirror-s-edge">Next: Having Faith In Mirror&#x27;s Edge</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/unreal-slackers-2015-stats</link><guid isPermaLink="true">http://lunamachine.net/blog/unreal-slackers-2015-stats</guid><pubDate>Mon, 04 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Having Faith In Mirror's Edge]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Having Faith In Mirror&#x27;s Edge</h2>
+        </header>
+        <p>Despite its shortcomings, Mirror’s Edge is still one of my favorite video games ever made. The first-person experience was unparalleled (and still is, if you ask me). The minimal aesthetic of the environment was colorful and, put simply, striking. And then there was Faith; a beautiful, strong, competent protagonist who could easily roll with the best of them. She also happened to be a young woman.</p>
+<p>Setting aside a weak story that was often poorly delivered and the jarring experience I had every time I found myself with a gun in hand, Mirror’s Edge was a unique and delightfully refreshing video game in a crowded space. The Pure Time Trials DLC took that fresh feeling even further with a set of incredibly unique time trial maps, each with its own color scheme and personality.</p>
+<p>And now we’re here.</p>
+<p>I’ve been following the development of the second Mirror’s Edge game since it was first announced in 2013. I was very excited to hear that the franchise would continue, but I was also anxious. How will they change the formula? Will they damage what made the first game so unique and memorable? Will there still be gun play? Worse, will gun play be <em>more</em> prominent? These are the types of questions that filled my head every time I thought about the new game.</p>
+<p>Today, my anxiety is gone.</p>
+<p>At EA’s E3 2015 press conference this afternoon, senior producer Sara Jansson <a href="https://www.youtube.com/watch?v=MJYVNzdgVJo">took the stage</a> to reveal Mirror’s Edge: Catalyst. The game promises more freedom, the origin story of Faith and even a world without levels or loading screens. Truly free roaming, as Sara put it. The words that will stick with me, though, came next:</p>
+<blockquote>
+<p>She doesn’t need any guns.</p>
+</blockquote>
+<p>I’m pretty sure I cried tears of joy. Everything about the game looks great, but those words really resonated. One of the most pressing questions I’ve spent the last two years asking myself has been definitively answered. <a href="http://www.mirrorsedge.com/news/fluidity-of-movement-and-combat-in-first-person-gameplay">A blog post</a> on the new website goes into more detail on how combat works:</p>
+<blockquote>
+<p>But though the main experience is centered around fluidity of movement Faith does have enemies and she is a skilled fighter. Combat too is focused on movement and agility, and Faith has no use for guns, having vowed long ago never to use them again. Instead her own body is the projectile, and properly guided she cuts through enemies like a sweeping scythe, dropping them left and right, while never staying still long enough for them to be able to hit her. Combining momentum, timing and your mastery of the environment is the key to claiming victory.</p>
+</blockquote>
+<p>The game is out on February 23, 2016 and I can’t wait to get my hands on it.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/unreal-slackers-2015-stats">Previous: Unreal Slackers 2015 Stats</a>
+          <a href="../../blog/microsoft-unifying-skype-apps-for-windows">Next: Microsoft Unifying Skype Apps for Windows</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/having-faith-in-mirror-s-edge</link><guid isPermaLink="true">http://lunamachine.net/blog/having-faith-in-mirror-s-edge</guid><pubDate>Mon, 15 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Microsoft Unifying Skype Apps for Windows]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Microsoft Unifying Skype Apps for Windows</h2>
+        </header>
+        <p>Microsoft has been making a lot of improvements under their new CEO, Satya Nadella, and this morning they <a href="http://blogs.skype.com/2015/06/11/a-more-efficient-skype-experience-for-your-pc/">announced</a> one that I have been hoping for:</p>
+<blockquote>
+<p>Starting on July 7, we’re updating PC users of the Windows modern application to the Windows desktop application, and retiring the modern application.</p>
+</blockquote>
+<p>It always bothered me that the “modern app” version of Skype on Windows 8+ didn’t have screen sharing, so I’m excited to see this change.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/having-faith-in-mirror-s-edge">Previous: Having Faith In Mirror&#x27;s Edge</a>
+          <a href="../../blog/skype-for-web-enters-open-beta-in-us-and-uk">Next: Skype for Web Enters Open Beta in US and UK</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/microsoft-unifying-skype-apps-for-windows</link><guid isPermaLink="true">http://lunamachine.net/blog/microsoft-unifying-skype-apps-for-windows</guid><pubDate>Thu, 11 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Skype for Web Enters Open Beta in US and UK]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Skype for Web Enters Open Beta in US and UK</h2>
+        </header>
+        <p>If you’re a regular Skype user, you might want to check out the new <a href="http://web.skype.com">Skype for Web</a> beta. The set up is pretty clunky - you need to install <em>two</em> plugins to use it - but once you’re in, it’s a pretty familiar experience.</p>
+<p>It’s not a full replacement for the desktop app yet (that may change when it leaves beta), but it means you can use Skype on, say, a Google Chromebook.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/microsoft-unifying-skype-apps-for-windows">Previous: Microsoft Unifying Skype Apps for Windows</a>
+          <a href="../../blog/initial-thoughts-on-steam-refunds">Next: Initial Thoughts on Steam Refunds</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/skype-for-web-enters-open-beta-in-us-and-uk</link><guid isPermaLink="true">http://lunamachine.net/blog/skype-for-web-enters-open-beta-in-us-and-uk</guid><pubDate>Fri, 05 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Initial Thoughts on Steam Refunds]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Initial Thoughts on Steam Refunds</h2>
+        </header>
+        <p>Yesterday, Valve announced that they are now offering full refunds for games purchased on Steam. The rules are pretty simple: you can request a refund for any reason as long as it’s within 14 days of the purchase and you haven’t played the game for more than 2 hours. There are some edge cases and a bit more information about the process, which you can read about <a href="http://store.steampowered.com/steam_refunds">on the Steam website</a>.</p>
+<p>A lot of people are chiming in on the subject, and it seems to be a polarizing one. Personally, I think this is great for game developers. The new refund policy will enable more people to buy with confidence on Steam.</p>
+<p>I’m sure some developers will be concerned when they first read the refund policy. There are probably a few out there right now thinking:</p>
+<blockquote>
+<p>What if a bunch of people beat my game in two hours and get a refund? I’ll never make any money!</p>
+</blockquote>
+<p>But here’s the thing: by reducing the risk involved in buying a game on Steam, your games are going to be exposed to a bunch of people who otherwise were interested, but not interested enough to spend the money for one reason or another. Maybe they were worried it wouldn’t run on their computer. Maybe they weren’t sure if they would like it or not.</p>
+<blockquote>
+<p>But Nick, we can offer a free demo!</p>
+</blockquote>
+<p>There’s a lot of work that goes into creating a compelling demo. What levels do you show off? How do you handle story spoilers? What features do you gate off? This is all time that could be spent on making the game better.</p>
+<p>Under this new refund policy, you don’t have to worry about any of that. Consider this mindset instead: <strong>the first few minutes of your game are the demo.</strong> Think about it. Your Steam page helps people decide whether or not they should play your game. The first few minutes of the game help people decide if they should <em>keep playing it.</em> Let the real game speak for itself instead of building a second, gated experience that will quickly morph into its own beast.</p>
+<p>When all is said and done, I think Steam refunds will have a largely positive effect on the industry. I’m sure there will be obstacles to overcome, and some developers are going to have bad experiences. Overall, I think giving Steam customers more buying power is a good thing for everyone.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/skype-for-web-enters-open-beta-in-us-and-uk">Previous: Skype for Web Enters Open Beta in US and UK</a>
+          <a href="../../blog/fallout-4-announced">Next: Fallout 4 Announced</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/initial-thoughts-on-steam-refunds</link><guid isPermaLink="true">http://lunamachine.net/blog/initial-thoughts-on-steam-refunds</guid><pubDate>Wed, 03 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Fallout 4 Announced]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Fallout 4 Announced</h2>
+        </header>
+        <p>Bethesda announced <em>Fallout 4</em> with a <a href="https://www.youtube.com/watch?v=GE2BkLqMef4">teaser trailer</a> this morning, and it looks like we’re heading to Boston this time.</p>
+<p>It’s a hype trailer focused on setting the tone and showing off the new graphics, so details on story and gameplay are scarce. I expect to learn more when they premiere the game at E3 on June 14. It will be streamed live on YouTube and Twitch.</p>
+<p>I really dig the sound work at the end of the trailer; when the <em>Fallout 4</em> logo appears, the light bulb in the center lights up and the sound you would expect an old light bulb to make matches the tone of the background music. It’s a great effect.</p>
+<p>I really enjoyed <em>Fallout 3</em> (and <em>Fallout: New Vegas</em> to a lesser extent) thanks to its open-ended exploration and rich atmosphere. Even though the color palette rarely changed, the creators of <em>Fallout 3</em> managed to create several memorable locations throughout the vast landscape. That’s a tough thing to do when you’re designing levels for a nuclear wasteland.</p>
+<p>What really made <em>Fallout 3</em> for me, though, was playing it on PC with mods. Minimal HUD, high resolution texture packs, darker nights and more vibrant, realistic colors turned this game into a very immersive experience. I can’t imagine playing it any other way. The art style presented in the teaser trailer for <em>Fallout 4</em> looks good - far more colorful than previous games - so I’m hopeful that some mods won’t even be necessary this time around. I can almost guarantee I’ll still play with a minimal HUD mod, though.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/initial-thoughts-on-steam-refunds">Previous: Initial Thoughts on Steam Refunds</a>
+          <a href="../../blog/rebuilding-lion-s-arch">Next: Rebuilding Lion&#x27;s Arch</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/fallout-4-announced</link><guid isPermaLink="true">http://lunamachine.net/blog/fallout-4-announced</guid><pubDate>Wed, 03 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Rebuilding Lion's Arch]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Rebuilding Lion&#x27;s Arch</h2>
+        </header>
+        <p>It’s patch day for Guild Wars 2, and this time ArenaNet dropped a nice surprise on us: the rebuilding of Lion’s Arch is <a href="https://www.guildwars2.com/en/news/lions-arch-construction-nears-completion-new-player-poll-announced/">nearing completion</a>! What excites me most about this is the approach they’re taking. From today’s <a href="https://forum-en.guildwars2.com/forum/info/updates/Game-Update-Notes-May-19-2015">patch notes</a>:</p>
+<blockquote>
+<p>Attention, citizens of Lion’s Arch,</p>
+<p>The rebuilding effort has begun! Please tread carefully around the construction zones, and try to respect the workers as they transform our beloved port into something new. Planning has taken much time, as the architects have had to work through many engineering and architectural challenges before agreeing on the final design of the city. Thank you for your patience and resilience during this difficult time. Together we’ll make the new Lion’s Arch a metropolis for the ages.</p>
+</blockquote>
+<p>I love the fact that they’re turning Lion’s Arch into “something new” instead of just rebuilding the original city. That line at the end about making the new Lion’s Arch a “metropolis for the ages” makes me particularly excited. Long-time players know that this isn’t the first time Lion’s Arch has been rebuilt, but it’s the first time we’ve witnessed it in the actual game. This will go down as an important moment in the history of Guild Wars 2, and I think building a new city vs. rebuilding what was already there not only fits the lore better, but will provide an equally fresh and exciting experience for new and old players alike.</p>
+<p>What’s <em>really</em> cool is that today’s patch brought a host of changes to Lion’s Arch already! There are several new NPCs to talk to and <em>tons</em> of construction going on around the city. Much of the destruction left in Scarlet’s wake has been cleaned up, replaced in some locations by new structures that are well under way. The most exciting nugget I found so far is a structure over in Postern Ward. A line of guild-related service NPCs are standing in front of it, and there’s a consortium surveyor who declines to go into detail but is willing to tell you that it’s going to be an “exciting new guild-related organization.” Guild halls hype!</p>
+<p>But wait: there’s more.</p>
+<h3 id="you-get-to-participate">You get to participate</h3>
+<p>Yeah, that’s right. They want <em>your</em> input on what the important locations in the new Lion’s Arch should be called! From the blog post:</p>
+<blockquote>
+<p>Hear ye! Hear ye! The city leaders of Lion’s Arch invite you to participate in the reinauguration of our beloved metropolis. You are invited to help in the naming of important structures, locations, and areas within Lion’s Arch!</p>
+</blockquote>
+<p>If you want to participate, head over to <a href="https://www.surveymonkey.com/s/5B7WMBF">this poll</a> and vote for your favorite names. Voting ends on May 26.</p>
+<p>This seems like a great way to get us, the players, involved in the process and really feel like we’re investing in the lore of the game. I can already imagine the giddy feeling I would get every time I visit a location in Lion’s Arch that bares the name I chose for it.</p>
+<h3 id="ready-up">Ready Up</h3>
+<p>At the end of last week’s Points of Interest, Rubi mentioned that while we aren’t getting an elite specialization reveal this week, they <em>are</em> announcing something “very, very cool.” So cool, in fact, that it apparently warrants an entire episode of Ready Up, their PvP-focused Twitch show. It would be kind of weird to make two big announcements in one week, but at the same time, talking about Lion’s Arch doesn’t seem to fit Ready Up at all. Will we get another announcement? We’ll have to wait until the show on Friday to find out.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/fallout-4-announced">Previous: Fallout 4 Announced</a>
+          <a href="../../blog/necromancer-elite-specialization-announced-the-reaper">Next: Necromancer Elite Specialization Announced - The Reaper</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/rebuilding-lion-s-arch</link><guid isPermaLink="true">http://lunamachine.net/blog/rebuilding-lion-s-arch</guid><pubDate>Tue, 19 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Necromancer Elite Specialization Announced - The Reaper]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Necromancer Elite Specialization Announced - The Reaper</h2>
+        </header>
+        <p>This morning, ArenaNet announced the first elite specialization for the necromancer: <a href="https://www.guildwars2.com/en/news/meet-the-reaper-necromancers-elite-specialization/">the reaper</a>. I’m still collecting my thoughts about this, so I’m going to reserve a more detailed reaction for tomorrow after the Points of Interest live stream where they will be showing the reaper in action. Until then, check out the official blog post for more info.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/rebuilding-lion-s-arch">Previous: Rebuilding Lion&#x27;s Arch</a>
+          <a href="../../blog/elite-specialization-speculation-the-necromancer">Next: Elite Specialization Speculation - The Necromancer</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/necromancer-elite-specialization-announced-the-reaper</link><guid isPermaLink="true">http://lunamachine.net/blog/necromancer-elite-specialization-announced-the-reaper</guid><pubDate>Thu, 14 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Elite Specialization Speculation - The Necromancer]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Elite Specialization Speculation - The Necromancer</h2>
+        </header>
+        <p>Tomorrow, ArenaNet is expected to announce the necromancer’s first elite specialization. After their usual <a href="https://twitter.com/GuildWars2/status/597798279414489089">Twitter teaser</a> on Monday, many of us in the Guild Wars 2 community have been speculating wildly. As someone who mains a necromancer, I decided it would be fun to collect my favorite speculations here and offer a theory of my own before the announcement drops tomorrow morning.</p>
+<h3 id="what-we-already-know">What We Already Know</h3>
+<p>Here’s what we know we will gain access to with this elite spec:</p>
+<ul>
+<li>The greatsword weapon</li>
+<li>A new type of slot skill</li>
+<li>A new way to use life force</li>
+</ul>
+<p>With that in mind, let the speculation begin.</p>
+<h3 id="the-name">The Name</h3>
+<p>Hot on the heels of the polarizing <a href="https://www.guildwars2.com/en/news/meet-the-dragonhunter-guardians-elite-specialization/">dragonhunter reveal</a>, this has been one of the most speculated topics. There are several cool names being tossed around on Twitter, Reddit and all over the web. This is by no means an exhaustive list, but these are the most interesting names I’ve come across throughout the week:</p>
+<ul>
+<li>Reaper</li>
+<li>Reaver</li>
+<li>Cultist</li>
+<li>Harbinger</li>
+<li>Demonologist</li>
+<li>Banshee</li>
+<li>Ritualist</li>
+<li>Undertaker</li>
+<li>Invoker</li>
+<li>Mistwalker</li>
+</ul>
+<p>Banshee seems to be the popular vote at the moment, thanks to its obvious connection to shouts (more on that in a moment). My personal favorites are cultist and ritualist. In a <a href="https://forum-en.guildwars2.com/forum/professions/guardian/Liked-the-ready-up-name-still-doesn-t-fit#post5048195">forum post</a> he wrote earlier this week, Jon Peters offered some insight on how they named the dragonhunter. To me, the most interesting part of the post was this:</p>
+<blockquote>
+<p>We had other generic names in mind but felt like it was important to have a mix of spec names that are generic fantasy, more Tyrian fantasy, and more high concept. This one falls more in the third category.</p>
+</blockquote>
+<p>So the dragonhunter falls into the ‘high concept’ category, and I think it’s safe to say the chronomancer falls under ‘generic fantasy.’ To say that there is a pattern here would be reading too much into it, but it’s exciting to think that the necromancer’s elite spec name might fall under the ‘Tyrian fantasy’ category. I personally hope it does.</p>
+<h3 id="greatsword-skills">Greatsword Skills</h3>
+<p>Based on the professions that already have access to the greatsword, I think we can safely assume a few things:</p>
+<ul>
+<li>It will probably offer high burst damage</li>
+<li>It will probably have AoE skills</li>
+<li>It will probably have a skill that involves movement or throwing the weapon at foes</li>
+</ul>
+<p>Every profession that can currently use a greatsword can do all of these things. Of course, ArenaNet could throw us a curveball and do something totally new and fresh this time. But this is the evidence we have to work with.</p>
+<p>It’s also worth noting that the mesmer is a bit more unique in the way they utilize the greatsword, particularly with Spatial Surge. I am personally hoping they take the same path with necromancer. Maybe add a bit of the guardian flavor, too. I would love to see a necromantic take on Binding Blade!</p>
+<h3 id="slot-skills">Slot Skills</h3>
+<p>I’ve heard a few different ideas here, but the common theory is shouts. Not only does it match the popular banshee name, but it would could potentially bring better group support to the necromancer, particularly in PvE. This is a sore spot for the profession currently, so it’s definitely an exciting possibility. New shouts would mean new voice overs, too, and that’s always cool! And, since we’re talking about necromancers here, these shouts could have a darker flavor to them; something we’ve yet to see. I’d like to briefly explore a few other potential skill types, though.</p>
+<h4 id="stances">Stances</h4>
+<p>It’s been suggested that the necromancer elite spec may bring stances to the profession. <a href="http://imgur.com/a/6THWt#0">This conversation</a> with Marjory in game certainly seems to suggest as much. We already know ANet is hinting at future elite specs through the story thanks to Marjory’s sister, Belinda. Of course, maybe we’re not meant to take Marjory’s words literally. It’s entirely possible that ANet didn’t yet know at the time what skills they’d give the necromancer elite spec, and that the hint is more about her learning how to use a greatsword than anything else.</p>
+<p>The bad side of this is that stances in their current form only affect the user. This wouldn’t bring the improved group support to the profession that so many desire. ANet may very well surprise us and make these stances work differently, but in this case we’ll have to wait and see.</p>
+<h4 id="mantras">Mantras</h4>
+<p>Mantras are currently only accessible to the mesmer, and they’re rather unique. Rather than cast them directly, you charge them up. After a long casting time, they’re replaced by an instant cast skill with 2 uses. Once you use those charges up, you hit a cooldown. This would bring an interesting flavor to the profession. Mantras in this case could be more like rituals or chants. Maybe you could charge up a shadow ritual and be rewarded with 2 short-range teleports, but they cost life force to use.</p>
+<p>Great flavor aside, mantras are mostly selfish skills. I say mostly because there is <em>one</em> mantra - Mantra of Resolve - that cures conditions on both you <strong>and</strong> nearby allies. This means mantras could potentially bring the group support many players are hoping for.</p>
+<h4 id="spirits">Spirits</h4>
+<p>This is my favorite potential new skill type. Currently, rangers have exclusive access to spirits. They’re ethereal creatures that, once summoned, have specific effects on the area surrounding them. They can be killed, and they’ll also disappear if the caster moves too far away.</p>
+<p>I think this is a strong candidate. They’d be a great fit lore-wise for the profession. Marjory’s story has involved ghostly spirits on more than one occasion; something I’ve really enjoyed about her character. I think there is good potential for mechanics and synergy, too. A spirit could have both positive effects on allies and negative effects on foes, so the potential for added group support is there. Mechanically, I think it would be cool if you managed spirits somehow with life force. That would bring a new meaning to life force without significantly altering death shroud.</p>
+<p>Some good points have been made against spirits. Chief among them is the idea that, since necromancers already have access to minions, spirits might feel redundant and therefore a bit dull. After all, elite specializations are supposed to unlock new possibilities for each profession. I can definitely see this point of view, but I’m still partial to this option. I think it’s one of the best fits thematically. Plus, if spirits bring the group support people are craving, then the experience could certainly prove to be sufficiently different from managing minions.</p>
+<h3 id="death-shroud">Death Shroud</h3>
+<p>This is the biggest mystery to me. I’d like to get excited about the possibility of a really different take on death shroud, but I don’t see them messing with it much, if at all, due to the number of traits that augment it. I honestly can’t think of any way that they could change death shroud in an interesting way that doesn’t interfere with traits.</p>
+<p>With that said, maybe they will add an entirely new shroud skill that <em>compliments</em> death shroud. That could be interesting! I don’t really have any ideas there, but it’s exciting to think about.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Alright. I’m going to end this article with my prediction. This is just for fun, but I want to get my theory out there and see what happens. The more theorycrafting, the better! So here’s my prediction for the necromancer’s first elite specialization:</p>
+<p><em>It will be called the ritualist. The ritualist will gain access to spirit skills and manage them with life force, similar to how revenant manages legends with energy. Summoning a spirit will add negative ticks to your life force; the more spirits you have out, the faster your life force drains. When your life force is empty, all of your spirits disappear and you take on a negative condition or effect that is similar to exhaustion from Guild Wars 1. A sort of summoning sickness that will wear off after a brief while. To avoid this, you can consume any active spirit to destroy it prematurely and gain back a portion of life force.</em></p>
+<p><em>Spirits will vary in their utility: some will buff allies in the area; some will debuff foes in the area; some will do a mix of both.
+Spirits’ effects will last as long as your life force does, or until they are killed or consumed. When they are consumed, you will get a significant buff from them. A utility spirit might enhance your greatsword attacks on consumption, while your healing spirit might give you a big self heal. If spirits are killed, not consumed, you will not gain this special effect.</em></p>
+<p><em>Playing a ritualist will be a balancing act. Maintain the right spirits for a given situation, watch your life force, know when the time is right to consume a spirit, and be careful to avoid summoning sickness.</em></p>
+
+      </article>
+      <nav>
+          <a href="../../blog/necromancer-elite-specialization-announced-the-reaper">Previous: Necromancer Elite Specialization Announced - The Reaper</a>
+          <a href="../../blog/it-s-about-the-process">Next: It&#x27;s About the Process</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/elite-specialization-speculation-the-necromancer</link><guid isPermaLink="true">http://lunamachine.net/blog/elite-specialization-speculation-the-necromancer</guid><pubDate>Wed, 13 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[It's About the Process]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>It&#x27;s About the Process</h2>
+        </header>
+        <p>I messed up. Last Friday, I procrastinated blogging to the point that I never got around to it. I did that four days in a row. Thirty two days in, my streak is broken.</p>
+<p>When I first sat down to write this post, I was <em>really</em> disappointed in myself. I was ready to retroactively add 5 posts to my blog to make up for the days I missed. Then I remembered a passage from the 100 Day Project website, and I changed my mind. It went something like this:</p>
+<p><em><strong>But what if I fail?</strong></em></p>
+<blockquote>
+<p>You will.</p>
+</blockquote>
+<p><em><strong>And then what?</strong></em></p>
+<blockquote>
+<p>You get to decide if you keep doing this.</p>
+</blockquote>
+<p>I’m not going to ret-con my blog. Instead, I’m just writing today’s post. This post. I’m going to own my mistakes, deal with the fact that I won’t finish this with 100 blog posts and keep marching forward. In the end, the number of posts doesn’t matter; it’s all about the process.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/elite-specialization-speculation-the-necromancer">Previous: Elite Specialization Speculation - The Necromancer</a>
+          <a href="../../blog/guardian-elite-specialization-announced-the-dragonhunter">Next: Guardian Elite Specialization Announced - The Dragonhunter</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/it-s-about-the-process</link><guid isPermaLink="true">http://lunamachine.net/blog/it-s-about-the-process</guid><pubDate>Tue, 12 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Guardian Elite Specialization Announced - The Dragonhunter]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Guardian Elite Specialization Announced - The Dragonhunter</h2>
+        </header>
+        <p>Today, ArenaNet announced the second of nine elite specializations coming in <em>Guild Wars 2: Heart of Thorns</em>: <a href="https://www.guildwars2.com/en/news/meet-the-dragonhunter-guardians-elite-specialization/">the dragonhunter</a>. I was really excited about the chronomancer after reading about it last week; so much so that I rolled a new mesmer to prepare for it. I don’t feel the same rush to play a dragonhunter.</p>
+<p>Don’t get me wrong: what the dragonhunter does is pretty cool. When you spec your guardian to be a dragonhunter, you gain access to the longbow weapon and a set of trap skills. On top of that, the guardian’s profession mechanic - virtues - becomes more active than passive, transforming each of the four virtues into a more offensive skill while still retaining the base characteristics of their original form. What bothers me is that the dragonhunter doesn’t feel like a natural extension of the guardian. It feels like an entirely new profession. Now, I get that the whole point of elite specializations is to open new roles to existing professions. But the way they’re spinning this elite spec - a sort of “big game hunter” that focuses on back line support with long range and powerful, single-shot skills - just doesn’t jive with my understanding of the guardian, from both game design and story perspectives. The lore side of this especially confuses me: why would a guardian become a dragonhunter? I have trouble buying that idea as an element of the story. The themes surrounding the guardian seem to clash with what makes a dragonhunter tick.</p>
+<p>Tomorrow, ArenaNet will show the dragonhunter in action during their <a href="https://www.guildwars2.com/en/news/watch-the-dragonhunter-on-this-weeks-ready-up/">Ready Up</a> live stream on Twitch. Hopefully that will provide clarification and give us better insight into what this elite spec is all about.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/it-s-about-the-process">Previous: It&#x27;s About the Process</a>
+          <a href="../../blog/goatz-is-coming">Next: GoatZ is Coming</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/guardian-elite-specialization-announced-the-dragonhunter</link><guid isPermaLink="true">http://lunamachine.net/blog/guardian-elite-specialization-announced-the-dragonhunter</guid><pubDate>Thu, 07 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[GoatZ is Coming]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>GoatZ is Coming</h2>
+        </header>
+        <p>Fellow <em>Goat Simulator</em> fans,</p>
+<blockquote>
+<p>The goat-pocalypse</p>
+<p>I will lick all the zombies</p>
+<p>My goat is ready</p>
+</blockquote>
+<p><a href="http://www.polygon.com/2015/5/5/8552111/goatz-because-why-not">GoatZ is coming</a> tomorrow, and it’s bringing more goats, more bugs and a boat load of survival game tropes. Coffee Stain Studios has comedy games licked.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/guardian-elite-specialization-announced-the-dragonhunter">Previous: Guardian Elite Specialization Announced - The Dragonhunter</a>
+          <a href="../../blog/mirror-s-edge-2-coming-in-2016">Next: Mirror&#x27;s Edge 2 Coming In 2016</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/goatz-is-coming</link><guid isPermaLink="true">http://lunamachine.net/blog/goatz-is-coming</guid><pubDate>Wed, 06 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Mirror's Edge 2 Coming In 2016]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Mirror&#x27;s Edge 2 Coming In 2016</h2>
+        </header>
+        <p>Michael McWhertor <a href="http://www.polygon.com/2015/5/5/8556395/mirrors-edge-2-release-date">for Polygon</a>:</p>
+<blockquote>
+<p>The new Mirror’s Edge from developer DICE will be released in early 2016, publisher Electronic Arts confirmed today.
+EA lists the game for release during the first three months of 2016 in a financial earnings presentation, saying the game is coming to consoles and PC.</p>
+</blockquote>
+<p>Hopefully this means we’ll start seeing heavier marketing soon, perhaps starting at E3 2015. I am a huge fan of the original game, but I remain cautiously optimistic about this one. It looks very promising from what little we’ve seen so far, but I’m reserving much of my excitement for when DICE goes more in-depth with story and game mechanics. I’m also a little scared of pre-order/DLC hell destroying this game’s integrity. Here’s hoping for a good E3 in June.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/goatz-is-coming">Previous: GoatZ is Coming</a>
+          <a href="../../blog/guardian-elite-specialization-teased">Next: Guardian Elite Specialization Teased</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/mirror-s-edge-2-coming-in-2016</link><guid isPermaLink="true">http://lunamachine.net/blog/mirror-s-edge-2-coming-in-2016</guid><pubDate>Tue, 05 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Guardian Elite Specialization Teased]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Guardian Elite Specialization Teased</h2>
+        </header>
+        <p>The elite specialization announcements continue! From the looks of <a href="https://twitter.com/GuildWars2/status/595256909587951616">this concept art</a> they tweeted, it seems like we’re getting the guardian this week. Big, glowing wings and… is that a longbow I see? <em>Oh my.</em></p>
+
+      </article>
+      <nav>
+          <a href="../../blog/mirror-s-edge-2-coming-in-2016">Previous: Mirror&#x27;s Edge 2 Coming In 2016</a>
+          <a href="../../blog/epic-games-talks-business-and-legal-tips-for-unreal-developers">Next: Epic Games Talks Business And Legal Tips For Unreal Developers</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/guardian-elite-specialization-teased</link><guid isPermaLink="true">http://lunamachine.net/blog/guardian-elite-specialization-teased</guid><pubDate>Mon, 04 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Epic Games Talks Business And Legal Tips For Unreal Developers]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Epic Games Talks Business And Legal Tips For Unreal Developers</h2>
+        </header>
+        <p>Last week, Epic Games hosted <a href="https://youtu.be/-C3x2Otc8sw">a Twitch live stream</a> covering business and legal tips for Unreal Engine developers. They covered a huge variety of important topics ranging from licensing, trademark and IP ownership to crowdfunding, getting a lawyer and working with a publisher. These are all topics that many of us neglect when we shouldn’t.  Tons of valuable info, even if you’re not using Unreal Engine.</p>
+<p>If you are an indie game developer wondering how to set up your business, this is a must watch.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/guardian-elite-specialization-teased">Previous: Guardian Elite Specialization Teased</a>
+          <a href="../../blog/you-can-still-download-p-t-if-you-already-purchased-it">Next: You Can Still Download P.T. If You Already Purchased It</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/epic-games-talks-business-and-legal-tips-for-unreal-developers</link><guid isPermaLink="true">http://lunamachine.net/blog/epic-games-talks-business-and-legal-tips-for-unreal-developers</guid><pubDate>Sun, 03 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[You Can Still Download P.T. If You Already Purchased It]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>You Can Still Download P.T. If You Already Purchased It</h2>
+        </header>
+        <p>The fact that so many people will miss out on P.T. is still tremendously sad, but there’s a silver lining: <a href="http://www.polygon.com/2015/4/30/8521741/pt-re-download-playstation-store-delisted">according to Polygon</a>, if you already ‘purchased’ P.T. before it was taken down, you can still re-download it. <em>Thank goodness.</em></p>
+<p>This comes as a relief to me because, as someone who doesn’t yet own a PlayStation 4, I quickly added P.T. to my account via the PSN website. Good to know my efforts weren’t in vain.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/epic-games-talks-business-and-legal-tips-for-unreal-developers">Previous: Epic Games Talks Business And Legal Tips For Unreal Developers</a>
+          <a href="../../blog/elon-musk-announces-tesla-energy">Next: Elon Musk Announces Tesla Energy</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/you-can-still-download-p-t-if-you-already-purchased-it</link><guid isPermaLink="true">http://lunamachine.net/blog/you-can-still-download-p-t-if-you-already-purchased-it</guid><pubDate>Sat, 02 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Elon Musk Announces Tesla Energy]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Elon Musk Announces Tesla Energy</h2>
+        </header>
+        <p>Elon Musk has been teasing a new product announcement for a while, and last night he delivered. He announced <a href="http://www.teslamotors.com/powerwall">Tesla Energy</a>, which is billed as “a suite of batteries for homes, businesses, and utilities fostering a clean energy ecosystem and helping wean the world off fossil fuels.” What really got me excited was the long term vision Elon was pitching to the crowd:</p>
+<blockquote>
+<p>What if we could move the electricity grid off of fossil fuels and towards renewable energy sources?</p>
+</blockquote>
+<p>True to his ambitious nature, Elon proposes that Tesla Energy is a sound plan for getting <em>the entire world</em> off of fossil fuels. His presentation was rather impactful. At one point, Elon proposed that with a program like this, the entire United States could be powered by a solar grid no larger than the top square section of Texas.</p>
+<p>But the coolest moment by far was when he casually revealed that the entire event - the huge displays, the lighting, the cameras and essentially the entire building - were all being powered by a set of Tesla Powerwall batteries sitting outside hooked up to solar panels on the roof.</p>
+<p>You can reserve a Tesla Powerwall home battery for $3,500 today, and they’re expected to ship this summer. If I could, I would.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/you-can-still-download-p-t-if-you-already-purchased-it">Previous: You Can Still Download P.T. If You Already Purchased It</a>
+          <a href="../../blog/mesmer-elite-specialization-announced-the-chronomancer">Next: Mesmer Elite Specialization Announced - The Chronomancer</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/elon-musk-announces-tesla-energy</link><guid isPermaLink="true">http://lunamachine.net/blog/elon-musk-announces-tesla-energy</guid><pubDate>Fri, 01 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Mesmer Elite Specialization Announced - The Chronomancer]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Mesmer Elite Specialization Announced - The Chronomancer</h2>
+        </header>
+        <p><em>Guild Wars 2: Heart of Thorns</em> is bringing a lot of new features to the core game. One of the most anticipated features is the new Specialization system; a complete rework of the skill and trait systems in the game. Each of the professions - including the upcoming 9th profession, the revenant - will also gain access to an elite specialization. These elite specializations will fundamentally change their respective profession by bringing a new mechanic, new skills, new traits and access to a new weapon type.</p>
+<p>The announcements have started this week with the mesmer’s elite specialization: <a href="https://www.guildwars2.com/en/news/meet-the-chronomancer-mesmers-elite-specialization/">the chronomancer</a>. I haven’t been this excited about <em>Heart of Thorns</em> since it was officially unveiled at PAX South 2015 back in January. In broad strokes, becoming a chronomancer means becoming, as ArenaNet have put it in the blog post, “a fabulous time mage.” It definitely sounds fabulous.</p>
+<p>Between the trait rework and this elite specialization, it sounds like mesmers are going to feel a lot more like they did in the original <em>Guild Wars</em>, back when fast casting and interrupts were their primary talents.</p>
+<p>Their new mechanic, Continuum Split, sounds particular amazing and opens the door to all sorts of interesting tactics. From the blog post:</p>
+<blockquote>
+<p>When the chronomancer activates Continuum Split, they sacrifice all of their illusions to split themselves off from the normal flow of time for a duration that scales with the number of illusions shattered. When this duration is over, or when the mesmer activates the follow-up skill Continuum Shift, they revert back to the location where the skill was first activated.</p>
+</blockquote>
+<p>That already sounds pretty compelling. But then the mind blow comes:</p>
+<blockquote>
+<p>Here’s where things get fun. Shifting back to the original timeline reverts the chronomancer’s health, endurance, and all cooldowns (yes, even the elite skill) back to the state they were in when the shatter was first activated. This skill essentially gives the chronomancer a reset button and allows for tricks such as casting any skill twice, avoiding a killing blow, or simply tactically repositioning yourself.</p>
+</blockquote>
+<p>I can only imagine the crazy things players will do with this! This skill is sure to get hit with a few balance patches early on, but it’s going to be really exciting to experiment with this.</p>
+<p>I believe ANet is planning to announce a new elite specialization every week. Having set the bar with chronomancer, I <em>cannot wait</em> to learn about the remaining eight.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/elon-musk-announces-tesla-energy">Previous: Elon Musk Announces Tesla Energy</a>
+          <a href="../../blog/goodbye-internet-explorer-hello-edge">Next: Goodbye Internet Explorer, Hello Edge</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/mesmer-elite-specialization-announced-the-chronomancer</link><guid isPermaLink="true">http://lunamachine.net/blog/mesmer-elite-specialization-announced-the-chronomancer</guid><pubDate>Thu, 30 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Goodbye Internet Explorer, Hello Edge]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Goodbye Internet Explorer, Hello Edge</h2>
+        </header>
+        <p>If you’ve heard about the upcoming Windows 10, you probably know that Microsoft is working on an entirely new web browser code-named Project Spartan. Today, Microsoft revealed the production name for the browser: <a href="http://www.theverge.com/2015/4/29/8511169/microsoft-edge-official-name-internet-explorer-upgrade">Meet Microsoft Edge</a>.</p>
+<p>I’ve been using the Windows 10 Technical Preview for about a month. I’ve played with Project Spartan a few times. It’s not ready for daily use in its current state, but there are some cool ideas being explored. I’m excited to see what modern web features it supports when Windows 10 launches. With Windows 10 launching for free - a first for Microsoft - it will be particularly interesting to see how Internet Explorer usage is affected.</p>
+
+      </article>
+      <nav>
+          <a href="../../blog/mesmer-elite-specialization-announced-the-chronomancer">Previous: Mesmer Elite Specialization Announced - The Chronomancer</a>
+          <a href="../../blog/vox-interviews-neil-degrasse-tyson">Next: Vox Interviews Neil deGrasse Tyson</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/goodbye-internet-explorer-hello-edge</link><guid isPermaLink="true">http://lunamachine.net/blog/goodbye-internet-explorer-hello-edge</guid><pubDate>Wed, 29 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Vox Interviews Neil deGrasse Tyson]]></title><description><![CDATA[<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Nick Pfisterer</title>
+    <meta name="description" content="Design • Code • Music">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="../../assets/css/theme.css">
+  
+    <link rel="canonical" href="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
+    <link rel="alternate" type="application/rss+xml" title="Nick Pfisterer" href="http://lunamachine.net/rss/">
+  </head>
+  <body>
+    <main>
+      <header>
+        <a href="//localhost:3000"><h1>Nick Pfisterer</h1></a>
+        <p>Design • Code • Music</p>
+        <hr>
+      </header>
+      <article>
+        <header>
+          <h2>Vox Interviews Neil deGrasse Tyson</h2>
+        </header>
+        <p>Vox’s Joseph Stromberg sat down with astrophysicist Neil deGrasse Tyson for <a href="http://www.vox.com/2015/4/28/8489725/neil-degrasse-tyson">a great interview</a> about space, fame and the future of our species. At one point Neil is asked about what he thinks the U.S. should be doing in space. His response quickly reveals just how much he loves to explore the universe:</p>
+<blockquote>
+<p>I have an unorthodox answer to that. We’re used to picking and choosing what to do in space. But it shouldn’t be about a particular destination, or a specific project getting priority. We should be turning the entire solar system into our backyard.</p>
+</blockquote>
+
+      </article>
+      <nav>
+          <a href="../../blog/goodbye-internet-explorer-hello-edge">Previous: Goodbye Internet Explorer, Hello Edge</a>
+          <a href="../../blog/silent-hills-is-dead">Next: Silent Hills is Dead</a>
+    </nav>
+    </main>
+  </body>
+</html>
+]]></description><link>http://lunamachine.net/blog/vox-interviews-neil-degrasse-tyson</link><guid isPermaLink="true">http://lunamachine.net/blog/vox-interviews-neil-degrasse-tyson</guid><pubDate>Tue, 28 Apr 2015 00:00:00 GMT</pubDate></item></channel></rss>
