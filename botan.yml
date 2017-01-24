@@ -1,0 +1,19 @@
+# Botan Configuration File
+site:
+  title: 'Nick Pfisterer'
+  description: 'Design • Code • Music'
+  url: 'http://lunamachine.net'
+assets:
+  sass:
+    source: '_assets/sass/**/*.scss'
+    destination: 'docs/assets/css'
+content:
+  source: '_content'
+  destination: 'docs'
+templates:
+  engine: 'handlebars'
+  default: 'default.hbs'
+  directory: '_templates'
+  partials: '_templates/partials'
+github:
+  cname: true
