@@ -1,2 +1,2 @@
 # lunamachine.net
-My personal website
+This is an old idea for my personal website that was never used. It was made using [Botan]().
